@@ -1,0 +1,22 @@
+div {
+  box-sizing: border-box;
+  background-color: blueviolet;
+}
+
+.caixa{
+    width: 100px;
+    height: 100px;
+    padding: 12px;
+    margin: 8px;
+    background-color: rgb(3, 250, 155);
+    border: 1px solid white;
+}
+
+#container{
+    width: 100%;
+    padding: 8px;
+    margin: 0;
+    height: auto;
+    display: flex;
+    justify-content: center ;
+}
